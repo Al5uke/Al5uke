@@ -97,7 +97,7 @@ Outside of code, I follow football religiously (Real Madrid 🤍) and think way 
  
 ## 📫 Let's connect
  
-[![LinkedIn](https://www.linkedin.com/in/alvis-finagnon-zounmenou-100939262)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvis-finagnon-zounmenou-100939262)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zounmenoualvis@gmail.com)
  
 ---
