@@ -80,11 +80,11 @@ Outside of code, I follow football religiously (Real Madrid 🤍) and think way 
  
 | Project | Description | Stack |
 |---|---|---|
-| [Bataille Navale](https://github.com/Al5uke/equipe9-inf5153-bataille-navalehttps://github.com/Al5uke/equipe9-inf5153-bataille-navale) | Full-stack battleship app — led a 5-person Agile team, 91% test coverage, CI/CD | Python · Flask · React · GitLab CI |
-| [Campus Connect](#) | Collaborative student platform — JWT auth, PostgreSQL, Docker, GitHub Actions | TypeScript · Node.js · PostgreSQL · Docker |
-| [Graph Analysis — C++](#) | Social network analyzer — BFS, shortest path, connected components, articulation points | C++ · STL · Templates |
-| [Kover](#) | CLI spatial modeling tool — data stream processing, memory management | C · Bats |
-| [Hunt the Wumpus](#) | Autonomous AI logic agent — SAT solvers, heuristic decision-making | Python |
+| [Bataille Navale](https://github.com/Al5uke/equipe9-inf5153-bataille-navale) | Full-stack battleship app — led a 5-person Agile team, 91% test coverage, CI/CD | Python · Flask · React · GitLab CI |
+| [Campus Connect] | Collaborative student platform — JWT auth, PostgreSQL, Docker, GitHub Actions | TypeScript · Node.js · PostgreSQL · Docker |
+| [Graph Analysis — C++] | Social network analyzer — BFS, shortest path, connected components, articulation points | C++ · STL · Templates |
+| [Kover] | CLI spatial modeling tool — data stream processing, memory management | C · Bats |
+| [Hunt the Wumpus] | Autonomous AI logic agent — SAT solvers, heuristic decision-making | Python |
  
 ---
  
@@ -97,7 +97,7 @@ Outside of code, I follow football religiously (Real Madrid 🤍) and think way 
  
 ## 📫 Let's connect
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-URL-ICI)
+[![LinkedIn](https://www.linkedin.com/in/alvis-finagnon-zounmenou-100939262)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zounmenoualvis@gmail.com)
  
 ---
